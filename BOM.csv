@@ -1,0 +1,26 @@
+Category,Quantity,Manufacturer Part Number,Description,Supplier,Unit Price (USD),Total (USD)
+Component,2,C0402C105K9PACTU,1µF 6.3V X5R Capacitor (0402),DigiKey.in,0.08,0.16
+Component,11,0402B104K160CT,0.1µF 16V X7R Capacitor (0402),DigiKey.in,0.003,0.03
+Component,2,LMK107BBJ106MALT,10µF 10V X5R Capacitor (0603),DigiKey.in,0.08,0.16
+Component,2,CL05C330JB5NNNC,33pF 50V C0G Capacitor (0402),DigiKey.in,0.1,0.2
+Component,1,USB4215-03-A,USB Type-C Receptacle (USB 2.0),DigiKey.in,0.49,0.49
+Component,2,RC0402FR-075K1L,5.1KΩ 1% Resistor (0402),DigiKey.in,0.1,0.2
+Component,2,ERA-2AEB273X,27KΩ 0.1% Resistor (0402),DigiKey.in,0.1,0.2
+Component,2,RMCF0603FT1K00,1KΩ 1% Resistor (0603),DigiKey.in,0.1,0.2
+Component,1,18996,0.91 inch OLED Display Module,robu.in,1.95,1.95
+Component,1,RC0201FR-0710KL,10KΩ 1% Resistor (0201),DigiKey.in,0.1,0.1
+Component,1,SW-PB9-AB00AQE-5,Subminiature Pushbutton Switch,DigiKey.in,3.39,3.39
+Component,1,SC0914(13),RP2040 Microcontroller (QFN-56),DigiKey.in,0.7,0.7
+Component,1,MCP1700T-3302E/TT,3.3V 250mA Linear Voltage Regulator,DigiKey.in,0.51,0.51
+Component,1,AT24CS02-SSHM-T,2Kbit I2C EEPROM,DigiKey.in,0.31,0.31
+Component,1,STDCRA3-8M,8MHz SMD Crystal,DigiKey.in,0.84,0.84
+Component,1,183031570409,M3 Hex Socket Cap Screw,DigiKey.in,5.05,5.05
+Component,1,5009,DSA Keycap Set (MX Compatible),DigiKey.in,5.95,5.95
+Component,5,DV-M30-TH,M3 Heat-Set Thread Insert,DigiKey.in,0.182,0.91
+Component,9,MX2A-71NW,Cherry MX Silent Red Switch,DigiKey.in,1.95,17.55
+Component,10,1N4148,Signal Diode 100V 200mA,DigiKey.in,0.039,0.39
+Component,1,6071183,Rotary Encoder (BCG13 Series),DigiKey.in,2.44,2.44
+Service,1,DIGIKEY-SHIPPING,DigiKey Shipping - Coupon,DigiKey.in,20,20
+Service,1,JLCPCB-PCB-STENCIL,JLCPCB PCB + Stencil,JLCPCB,7.01,7.01
+Service,1,JLCPCB-SHIPPING,JLCPCB Shipping - Coupon,JLCPCB,8.16,8.16
+,,,Grand Total,,,76.9

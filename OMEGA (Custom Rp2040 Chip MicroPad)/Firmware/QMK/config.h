@@ -1,0 +1,27 @@
+
+#pragma once
+
+#define MATRIX_ROWS 4
+#define MATRIX_COLS 3
+
+#define MATRIX_ROW_PINS { GP19, GP18, GP12, GP11 }
+#define MATRIX_COL_PINS { GP23, GP22, GP10 }
+
+#define DIODE_DIRECTION COL2ROW
+
+// Encoder
+#define ENCODERS_PAD_A { GP20 }
+#define ENCODERS_PAD_B { GP21 }
+
+// OLED I2C
+#define I2C_DRIVER I2CD0
+#define I2C1_SDA_PIN GP4
+#define I2C1_SCL_PIN GP5
+
+#define OLED_TIMEOUT 0
+#define OLED_BRIGHTNESS 120
+
+#define MOUSEKEY_DELAY 0
+#define MOUSEKEY_INTERVAL 16
+#define MOUSEKEY_MAX_SPEED 5
+#define MOUSEKEY_TIME_TO_MAX 64
